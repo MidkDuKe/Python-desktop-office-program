@@ -70,3 +70,7 @@
 ```bash
 pip install openpyxl pandas ttkbootstrap pillow
 ```
+
+### 项目截图
+
+![项目截图](/data/项目截图.jpg)
